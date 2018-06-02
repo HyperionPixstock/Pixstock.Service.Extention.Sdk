@@ -5,7 +5,7 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\pixstock.service.infra\Pixstock.Service.Infra.csproj" />
+    <ProjectReference Include="..\Pixstock.Service.Infra\Pixstock.Service.Infra.csproj" />
   </ItemGroup>
 
   <ItemGroup>
